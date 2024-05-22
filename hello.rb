@@ -1,3 +1,7 @@
+#This project was built as a way for me to be introduced to the Ruby Language. It is the solution for the 2023 Advent of Code Day 2.
+#Author: C Wyatt Bruchhauser
+#Date: May 22, 2024
+
 RED_MAX   = 12
 GREEN_MAX  = 13
 BLUE_MAX = 14
